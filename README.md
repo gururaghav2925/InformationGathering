@@ -74,7 +74,13 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 ### Whois
 
+<img width="740" height="759" alt="image" src="https://github.com/user-attachments/assets/79223fdc-fdc1-4e55-b67a-bf38628352e6" />
+
+
 ### Finding Hosting Company :
+
+<img width="744" height="533" alt="image" src="https://github.com/user-attachments/assets/2d6d15f3-c4a4-42a0-b116-f28962840582" />
+
 
 ### History of the website :
 
