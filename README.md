@@ -74,15 +74,18 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 ### Whois
 
-<img width="932" height="730" alt="image" src="https://github.com/user-attachments/assets/c43cec6e-9623-49a5-a6ce-b76b9ce72fbe" />
+<img width="911" height="738" alt="image" src="https://github.com/user-attachments/assets/5738181c-dce0-458c-8b42-afe9500d3663" />
 
 ### Finding Hosting Company :
 
 
-
+<img width="1617" height="847" alt="image" src="https://github.com/user-attachments/assets/785c5332-534a-4754-85d0-645e2ecb075e" />
 
 
 ### History of the website :
+
+
+
 
 ### ping command :
 
